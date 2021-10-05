@@ -1,0 +1,272 @@
+h1 {
+  display: inline-block;
+  color: #ffffff;
+  background-color: #002dff;
+  width: auto;
+  font-size: 50px;
+  font-family: Roboto;
+  font-weight: bold;
+}
+
+cursor {
+  display: inline-block;
+  background-color: #ccc;
+  margin-left: 0.1rem;
+  width: 3px;
+  animation: blink 1s infinite;
+}
+
+video {
+  margin-top: -10%;
+}
+
+#button {
+  padding: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  box-shadow: 5px 5px 10px #ccc;
+  border-radius: 2px;
+}
+
+.btn-outline-primary:active {
+  background-color: #002dff;
+}
+
+.btn-outline-primary:hover {
+  background-color: #002dff;
+}
+
+.btn-outline-primary {
+  color: #002dff;
+}
+
+div {
+  display: block;
+}
+
+#burocracia {
+  text-align: center;
+  margin-top: 60px;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+
+button .btn-primary:hover {
+  color: #fff;
+  background-color: #0700dd;
+  border-color: #0700dd;
+}
+
+button .btn-primary {
+}
+
+button .btn-primary:hover {
+  background-color: #0700dd;
+}
+
+#botaocontador:hover {
+  color: #fff;
+  background-color: #0700dd;
+  border-color: #0700dd;
+}
+
+.termos:hover {
+  color: #ffffff;
+}
+
+a {
+  color: #ffffff;
+  font-size: 15px;
+  text-decoration: initial;
+}
+
+#botaocontador {
+  margin-top: 20px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #002dff;
+  border-color: #002dff;
+}
+
+.features__tick::after {
+  content: "\2713";
+  font-size: 1.5em;
+  color: #0700dd;
+}
+
+div .servico {
+  background-color: #dcdcdc;
+}
+
+.textotabela {
+  color: #2343d4;
+}
+
+div .simples {
+  border-bottom: 1px;
+}
+
+div .plano1 {
+  border-radius: 15px 0 0 0;
+  background-color: #0464eb;
+  color: #ffffff;
+  border-bottom: 1px;
+}
+
+div .plano2 {
+  background-color: #0542e6;
+  color: #ffffff;
+  border-bottom: 1px;
+}
+
+div .plano3 {
+  border-radius: 0 15px 0 0;
+  border-bottom: 1px;
+  background-color: #0628e3;
+  color: #ffffff;
+}
+
+#botaotabela1 {
+  margin-top: 20px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 25px;
+  background-color: #0464eb;
+  border-color: #0464eb;
+}
+
+#botaotabela2 {
+  margin-top: 20px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 25px;
+  background-color: #0542e6;
+  border-color: #0542e6;
+}
+
+#botaotabela3 {
+  margin-top: 20px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 25px;
+  background-color: #0628e3;
+  border-color: #0628e3;
+}
+
+#botaotabela1:hover {
+  color: #0700dd;
+  background-color: #fff;
+  border-color: #0700dd;
+}
+
+#botaotabela2:hover {
+  color: #0700dd;
+  background-color: #fff;
+  border-color: #0700dd;
+}
+
+#botaotabela3:hover {
+  color: #0700dd;
+  background-color: #fff;
+  border-color: #0700dd;
+}
+
+div .paragrafo {
+  line-height: 0.7;
+}
+
+div .titulo {
+  color: #002dff;
+}
+
+.nav-link:focus, .nav-link:hover {
+  color: #0a58ca;
+}
+
+#navcol-1 .nav-link:hover {
+  color: #0700dd;
+}
+
+#navcol-1 .nav-link {
+  color: #212121;
+}
+
+div a .aplicativos {
+  width: 80%;
+  box-shadow: 0.5px 0.5px 3px #ccc;
+}
+
+div a:hover .aplicativos {
+  width: 82%;
+}
+
+div a .logo {
+  width: 180px;
+}
+
+.introducao {
+  display: inline-block;
+  color: #002dff;
+  width: auto;
+  font-size: 50px;
+  font-family: Roboto;
+  font-weight: bold;
+}
+
+.btn-outline-primary {
+  color: #002dff;
+  border-color: #ffffff;
+}
+
+div .formulario {
+  margin-top: 40px;
+  font-family: Roboto;
+  font-size: 16px;
+}
+
+div .form-group {
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+div .form-control {
+  color: #c2c2c2;
+}
+
+div .form-control::placeholder {
+  color: #c2c2c2;
+}
+
+div .informativo {
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+div .contato {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 100px;
+}
+
+div .contato button {
+  padding: 20px;
+  color: #ffffff;
+  background-color: #0464eb;
+  box-shadow: 2px 2px 3px #0542e6;
+}
+
+div .contato button:hover {
+  background-color: #0542e6;
+}
+
+h2 .linkduvida {
+  color: #002dff;
+}
+
