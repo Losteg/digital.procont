@@ -20,7 +20,7 @@ video {
   margin-top: -10%;
 }
 
-#button {
+a #button {
   padding: 15px;
   padding-left: 30px;
   padding-right: 30px;
@@ -83,7 +83,7 @@ a {
   text-decoration: initial;
 }
 
-#botaocontador {
+a #botaocontador {
   margin-top: 20px;
   padding: 10px;
   padding-left: 20px;
